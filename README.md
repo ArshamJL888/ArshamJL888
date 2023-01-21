@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArshamJL888
+- 👋 Hi, I’m Arsham
 - 👀 I’m interested in programming and software development
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on ...
