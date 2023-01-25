@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arsham
-- 👀 I’m fond of "Programming" , "Software Development" and "Learning New Things" specially "Web Programming" which is my great passion !!!
+- 👀 I’m fond of "Programming" , "Software Development" and "Learning New Things" especially "Web Programming" which is my great passion !!!
 - 🌱 I’m currently learning programming languages like "JavaScript" , "C" , ...
 - 
 <!---
